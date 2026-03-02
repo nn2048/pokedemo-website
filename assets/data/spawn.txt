@@ -1,0 +1,533 @@
+【绿毛虫 / Caterpie】(caterpie)
+  - [common] w=3 Lv1~20 pos=land | 维度:minecraft:overworld | id:0010_caterpie_1
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=3 Lv1~20 pos=land | 维度:minecraft:overworld | id:0010_caterpie_2
+    群系:minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle
+    条件:无
+
+【独角虫 / Weedle】(weedle)
+  - [common] w=3 Lv1~20 pos=land | 维度:minecraft:overworld | id:0013_weedle_3
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle
+    条件:无
+  - [common] w=2 Lv1~20 pos=land | 维度:minecraft:overworld | id:0013_weedle_4
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【波波 / Pidgey】(pidgey)
+  - [common] w=3 Lv1~25 pos=land | 维度:minecraft:overworld | id:0016_pidgey_5
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:时间=day
+
+【小拉达 / Rattata】(rattata)
+  - [common] w=3 Lv1~25 pos=land | 维度:minecraft:overworld | id:0019_rattata_6
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:时间=night
+
+【烈雀 / Spearow】(spearow)
+  - [common] w=3 Lv1~26 pos=land | 维度:minecraft:overworld | id:0021_spearow_7
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:时间=day
+
+【阿柏蛇 / Ekans】(ekans)
+  - [common] w=2 Lv4~29 pos=land | 维度:minecraft:the_nether | id:0023_ekans_8
+    群系:minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=2 Lv4~29 pos=land | 维度:minecraft:overworld | id:0023_ekans_9
+    群系:minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【皮卡丘 / Pikachu】(pikachu)
+  - [uncommon] w=1 Lv16~32 pos=land | 维度:minecraft:overworld | id:0025_pikachu_10
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden
+    条件:无
+  - [uncommon] w=1 Lv16~32 pos=land | 维度:minecraft:overworld | id:0025_pikachu_11
+    群系:minecraft:beach, minecraft:snowy_beach, minecraft:stony_shore
+    条件:无
+
+【穿山鼠 / Sandshrew】(sandshrew)
+  - [common] w=3 Lv5~30 pos=land | 维度:minecraft:overworld | id:0027_sandshrew_12
+    群系:minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【尼多兰 / Nidoran♀】(nidoranf)
+  - [uncommon] w=3 Lv3~28 pos=land | 维度:minecraft:overworld | id:0029_nidoranf_13
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【尼多朗 / Nidoran♂】(nidoranm)
+  - [uncommon] w=3 Lv3~28 pos=land | 维度:minecraft:overworld | id:0032_nidoranm_14
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【皮皮 / Clefairy】(clefairy)
+  - [uncommon] w=1 Lv17~32 pos=land | 维度:minecraft:overworld | id:0035_clefairy_15
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:时间=night
+  - [uncommon] w=1 Lv17~32 pos=land | 维度:minecraft:overworld | id:0035_clefairy_16
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:时间=night
+  - [rare] w=2 Lv10~30 pos=land | 维度:minecraft:the_end | id:end_clefairy
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:时间=night
+
+【六尾 / Vulpix】(vulpix)
+  - [uncommon] w=2 Lv5~30 pos=land | 维度:minecraft:overworld | id:0037_vulpix_17
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden
+    条件:无
+  - [uncommon] w=2 Lv5~30 pos=land | 维度:minecraft:overworld | id:0037_vulpix_18
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【胖丁 / Jigglypuff】(jigglypuff)
+  - [common] w=1 Lv16~27 pos=land | 维度:minecraft:overworld | id:0039_jigglypuff_19
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=1 Lv16~27 pos=land | 维度:minecraft:overworld | id:0039_jigglypuff_20
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [rare] w=2 Lv10~30 pos=land | 维度:minecraft:the_end | id:end_jigglypuff
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:时间=night
+
+【超音蝠 / Zubat】(zubat)
+  - [common] w=3 Lv1~25 pos=cave | 维度:minecraft:overworld | id:0041_zubat_21
+    群系:minecraft:dripstone_caves, minecraft:lush_caves, minecraft:deep_dark
+    条件:无
+  - [common] w=3 Lv1~25 pos=cave | 维度:minecraft:overworld | id:0041_zubat_22
+    群系:minecraft:dripstone_caves, minecraft:lush_caves, minecraft:deep_dark
+    条件:无
+
+【走路草 / Oddish】(oddish)
+  - [common] w=3 Lv7~32 pos=land | 维度:minecraft:overworld | id:0043_oddish_23
+    群系:minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle
+    条件:无
+  - [common] w=1 Lv7~32 pos=land | 维度:minecraft:overworld | id:0043_oddish_24
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【派拉斯 / Paras】(paras)
+  - [common] w=3 Lv4~29 pos=land | 维度:minecraft:overworld | id:0046_paras_25
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=3 Lv4~29 pos=land | 维度:minecraft:the_nether | id:0046_paras_26
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【毛球 / Venonat】(venonat)
+  - [common] w=2 Lv6~31 pos=land | 维度:minecraft:overworld | id:0048_venonat_27
+    群系:minecraft:swamp, minecraft:mangrove_swamp
+    条件:时间=night
+
+【地鼠 / Diglett】(diglett)
+  - [common] w=3 Lv2~27 pos=land | 维度:minecraft:overworld | id:0050_diglett_28
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【喵喵 / Meowth】(meowth)
+  - [uncommon] w=2 Lv4~29 pos=land | 维度:minecraft:overworld | id:0052_meowth_29
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:taiga, minecraft:meadow, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden
+    条件:时间=night；附近结构=VILLAGE 半径128
+  - [uncommon] w=2 Lv4~29 pos=land | 维度:minecraft:overworld | id:0052_meowth_30
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:taiga, minecraft:meadow, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden
+    条件:时间=night；附近结构=VILLAGE 半径128
+
+【可达鸭 / Psyduck】(psyduck)
+  - [common] w=2 Lv7~32 pos=land | 维度:minecraft:overworld | id:0054_psyduck_31
+    群系:minecraft:swamp, minecraft:mangrove_swamp
+    条件:无
+  - [common] w=2 Lv7~32 pos=land | 维度:minecraft:overworld | id:0054_psyduck_32
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:swamp, minecraft:mangrove_swamp
+    条件:附近方块=minecraft:water 半径24
+
+【猴怪 / Mankey】(mankey)
+  - [common] w=2 Lv6~31 pos=land | 维度:minecraft:overworld | id:0056_mankey_33
+    群系:minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle, minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:无
+
+【卡蒂狗 / Growlithe】(growlithe)
+  - [uncommon] w=3 Lv10~35 pos=land | 维度:minecraft:overworld | id:0058_growlithe_34
+    群系:minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:plains, minecraft:sunflower_plains, minecraft:taiga
+    条件:无
+  - [uncommon] w=3 Lv10~35 pos=land | 维度:minecraft:overworld | id:0058_growlithe_35
+    群系:minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:附近结构=VILLAGE 半径128
+
+【蚊香蝌蚪 / Poliwag】(poliwag)
+  - [common] w=3 Lv5~30 pos=water | 维度:minecraft:overworld | id:0060_poliwag_36
+    群系:minecraft:swamp, minecraft:mangrove_swamp
+    条件:无
+  - [common] w=3 Lv5~30 pos=water | 维度:minecraft:overworld | id:0060_poliwag_37
+    群系:minecraft:swamp, minecraft:mangrove_swamp
+    条件:附近方块=minecraft:lily_pad 半径24
+
+【凯西 / Abra】(abra)
+  - [rare] w=3 Lv6~31 pos=land | 维度:minecraft:overworld | id:0063_abra_38
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:时间=night
+  - [uncommon] w=3 Lv6~31 pos=land | 维度:minecraft:overworld | id:0063_abra_39
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:时间=night
+  - [uncommon] w=6 Lv8~28 pos=land | 维度:minecraft:the_end | id:end_abra
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:无
+
+【腕力 / Machop】(machop)
+  - [common] w=2 Lv6~31 pos=land | 维度:minecraft:overworld | id:0066_machop_40
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:无
+
+【喇叭芽 / Bellsprout】(bellsprout)
+  - [common] w=3 Lv5~30 pos=land | 维度:minecraft:overworld | id:0069_bellsprout_41
+    群系:minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle
+    条件:无
+
+【玛瑙水母 / Tentacool】(tentacool)
+  - [common] w=3 Lv9~34 pos=water | 维度:minecraft:overworld | id:0072_tentacool_42
+    群系:minecraft:ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean
+    条件:无
+  - [common] w=3 Lv9~34 pos=water | 维度:minecraft:overworld | id:0072_tentacool_43
+    群系:minecraft:ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean
+    条件:无
+
+【小拳石 / Geodude】(geodude)
+  - [common] w=3 Lv5~30 pos=land | 维度:minecraft:overworld | id:0074_geodude_44
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:无
+  - [common] w=3 Lv5~30 pos=land | 维度:minecraft:overworld | id:0074_geodude_45
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【小火马 / Ponyta】(ponyta)
+  - [common] w=3 Lv16~41 pos=land | 维度:minecraft:overworld | id:0077_ponyta_46
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=2 Lv16~41 pos=land | 维度:minecraft:the_nether | id:0077_ponyta_47
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【呆呆兽 / Slowpoke】(slowpoke)
+  - [common] w=2 Lv7~32 pos=water | 维度:minecraft:overworld | id:0079_slowpoke_48
+    群系:minecraft:river, minecraft:frozen_river
+    条件:无
+  - [common] w=2 Lv7~32 pos=water | 维度:minecraft:overworld | id:0079_slowpoke_49
+    群系:minecraft:beach, minecraft:snowy_beach, minecraft:stony_shore
+    条件:无
+
+【嘟嘟 / Doduo】(doduo)
+  - [common] w=3 Lv6~31 pos=land | 维度:minecraft:overworld | id:0084_doduo_50
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【小海狮 / Seel】(seel)
+  - [common] w=3 Lv8~33 pos=water | 维度:minecraft:overworld | id:0086_seel_51
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=3 Lv8~33 pos=water | 维度:minecraft:overworld | id:0086_seel_52
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【臭泥 / Grimer】(grimer)
+  - [common] w=3 Lv8~33 pos=land | 维度:minecraft:the_nether | id:0088_grimer_53
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=1 Lv8~33 pos=water | 维度:minecraft:overworld | id:0088_grimer_54
+    群系:minecraft:swamp, minecraft:mangrove_swamp
+    条件:无
+
+【大舌贝 / Shellder】(shellder)
+  - [common] w=3 Lv6~31 pos=water | 维度:minecraft:overworld | id:0090_shellder_55
+    群系:minecraft:snowy_plains, minecraft:snowy_taiga, minecraft:ice_spikes, minecraft:frozen_peaks, minecraft:frozen_ocean, minecraft:deep_frozen_ocean, minecraft:frozen_river, minecraft:snowy_beach, minecraft:cold_ocean, minecraft:deep_cold_ocean
+    条件:无
+  - [common] w=3 Lv6~31 pos=water | 维度:minecraft:overworld | id:0090_shellder_56
+    群系:minecraft:snowy_plains, minecraft:snowy_taiga, minecraft:ice_spikes, minecraft:frozen_peaks, minecraft:frozen_ocean, minecraft:deep_frozen_ocean, minecraft:frozen_river, minecraft:snowy_beach, minecraft:cold_ocean, minecraft:deep_cold_ocean
+    条件:无
+
+【鬼斯 / Gastly】(gastly)
+  - [common] w=3 Lv6~31 pos=land | 维度:minecraft:overworld | id:0092_gastly_57
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=3 Lv6~31 pos=land | 维度:minecraft:the_nether | id:0092_gastly_58
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【大岩蛇 / Onix】(onix)
+  - [uncommon] w=2 Lv14~39 pos=land | 维度:minecraft:overworld | id:0095_onix_59
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [uncommon] w=1 Lv14~39 pos=land | 维度:minecraft:the_nether | id:0095_onix_60
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【催眠貘 / Drowzee】(drowzee)
+  - [common] w=3 Lv8~33 pos=land | 维度:minecraft:overworld | id:0096_drowzee_61
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:taiga
+    条件:时间=night
+  - [common] w=3 Lv8~33 pos=land | 维度:minecraft:overworld | id:0096_drowzee_62
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:时间=night；附近结构=VILLAGE 半径128
+  - [rare] w=2 Lv10~30 pos=land | 维度:minecraft:the_end | id:end_drowzee
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:无
+
+【大钳蟹 / Krabby】(krabby)
+  - [common] w=3 Lv8~33 pos=water | 维度:minecraft:overworld | id:0098_krabby_63
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=3 Lv8~33 pos=water | 维度:minecraft:overworld | id:0098_krabby_64
+    群系:minecraft:ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean
+    条件:无
+
+【霹雳电球 / Voltorb】(voltorb)
+  - [common] w=1 Lv8~33 pos=land | 维度:minecraft:overworld | id:0100_voltorb_65
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:taiga
+    条件:无
+  - [uncommon] w=10 Lv8~33 pos=land | 维度:minecraft:overworld | id:0100_voltorb_66
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【蛋蛋 / Exeggcute】(exeggcute)
+  - [common] w=1 Lv8~33 pos=land | 维度:minecraft:overworld | id:0102_exeggcute_67
+    群系:minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle
+    条件:无
+  - [uncommon] w=3 Lv8~33 pos=land | 维度:minecraft:overworld | id:0102_exeggcute_68
+    群系:minecraft:beach, minecraft:snowy_beach, minecraft:stony_shore
+    条件:无
+
+【卡拉卡拉 / Cubone】(cubone)
+  - [common] w=3 Lv7~32 pos=land | 维度:minecraft:the_nether | id:0104_cubone_69
+    群系:minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=2 Lv7~32 pos=land | 维度:minecraft:overworld | id:0104_cubone_70
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【大舌头 / Lickitung】(lickitung)
+  - [uncommon] w=1 Lv14~39 pos=land | 维度:minecraft:overworld | id:0108_lickitung_71
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【瓦斯弹 / Koffing】(koffing)
+  - [common] w=3 Lv9~34 pos=land | 维度:minecraft:the_nether | id:0109_koffing_72
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=1 Lv9~34 pos=land | 维度:minecraft:overworld | id:0109_koffing_73
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:taiga
+    条件:无
+
+【独角犀牛 / Rhyhorn】(rhyhorn)
+  - [common] w=1 Lv10~35 pos=land | 维度:minecraft:overworld | id:0111_rhyhorn_74
+    群系:minecraft:snowy_plains, minecraft:snowy_taiga, minecraft:ice_spikes, minecraft:frozen_peaks, minecraft:frozen_ocean, minecraft:deep_frozen_ocean, minecraft:frozen_river, minecraft:snowy_beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:无
+
+【吉利蛋 / Chansey】(chansey)
+  - [rare] w=1 Lv17~45 pos=land | 维度:minecraft:overworld | id:0113_chansey_75
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:taiga
+    条件:无
+  - [rare] w=1 Lv17~45 pos=land | 维度:minecraft:overworld | id:0113_chansey_76
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:附近结构=VILLAGE 半径128
+
+【蔓藤怪 / Tangela】(tangela)
+  - [common] w=1 Lv19~44 pos=land | 维度:minecraft:overworld | id:0114_tangela_77
+    群系:minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle
+    条件:无
+
+【袋兽 / Kangaskhan】(kangaskhan)
+  - [rare] w=3 Lv24~49 pos=land | 维度:minecraft:overworld | id:0115_kangaskhan_78
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【墨海马 / Horsea】(horsea)
+  - [common] w=1 Lv5~30 pos=water | 维度:minecraft:overworld | id:0116_horsea_79
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=1 Lv5~30 pos=water | 维度:minecraft:overworld | id:0116_horsea_80
+    群系:minecraft:snowy_plains, minecraft:snowy_taiga, minecraft:ice_spikes, minecraft:frozen_peaks, minecraft:frozen_ocean, minecraft:deep_frozen_ocean, minecraft:frozen_river, minecraft:snowy_beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:deep_lukewarm_ocean
+    条件:无
+
+【角金鱼 / Goldeen】(goldeen)
+  - [common] w=3 Lv7~32 pos=water | 维度:minecraft:overworld | id:0118_goldeen_81
+    群系:minecraft:river, minecraft:frozen_river
+    条件:无
+  - [common] w=3 Lv7~32 pos=water | 维度:minecraft:overworld | id:0118_goldeen_82
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle, minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:无
+
+【海星星 / Staryu】(staryu)
+  - [uncommon] w=3 Lv9~34 pos=water | 维度:minecraft:overworld | id:0120_staryu_83
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:时间=night
+  - [uncommon] w=2 Lv9~34 pos=water | 维度:minecraft:overworld | id:0120_staryu_84
+    群系:minecraft:ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean
+    条件:无
+
+【魔墙人偶 / Mr. Mime】(mrmime)
+  - [uncommon] w=1 Lv26~46 pos=land | 维度:minecraft:overworld | id:0122_mrmime_85
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:taiga
+    条件:无
+  - [uncommon] w=1 Lv26~46 pos=land | 维度:minecraft:overworld | id:0122_mrmime_86
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:附近结构=VILLAGE 半径128
+  - [ultra_rare] w=1 Lv10~30 pos=land | 维度:minecraft:the_end | id:end_mrmime
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:时间=day
+
+【飞天螳螂 / Scyther】(scyther)
+  - [rare] w=1 Lv25~50 pos=land | 维度:minecraft:overworld | id:0123_scyther_87
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:时间=day
+  - [uncommon] w=1 Lv25~50 pos=land | 维度:minecraft:overworld | id:0123_scyther_88
+    群系:minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle
+    条件:时间=day
+
+【迷唇姐 / Jynx】(jynx)
+  - [uncommon] w=1 Lv30~46 pos=land | 维度:minecraft:overworld | id:0124_jynx_89
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:taiga
+    条件:无
+  - [uncommon] w=1 Lv30~46 pos=land | 维度:minecraft:overworld | id:0124_jynx_90
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:附近结构=VILLAGE 半径128
+
+【电击兽 / Electabuzz】(electabuzz)
+  - [uncommon] w=1 Lv30~50 pos=land | 维度:minecraft:overworld | id:0125_electabuzz_91
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore, minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【鸭嘴火兽 / Magmar】(magmar)
+  - [common] w=1 Lv30~50 pos=land | 维度:minecraft:overworld | id:0126_magmar_92
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:附近方块=minecraft:lava 半径24
+  - [common] w=1 Lv30~50 pos=land | 维度:minecraft:overworld | id:0126_magmar_93
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【凯罗斯 / Pinsir】(pinsir)
+  - [rare] w=3 Lv25~50 pos=land | 维度:minecraft:overworld | id:0127_pinsir_94
+    群系:minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle
+    条件:无
+  - [uncommon] w=1 Lv25~50 pos=land | 维度:minecraft:overworld | id:0127_pinsir_95
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【肯泰罗 / Tauros】(tauros)
+  - [common] w=1 Lv24~49 pos=land | 维度:minecraft:overworld | id:0128_tauros_96
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:无
+  - [common] w=1 Lv24~49 pos=land | 维度:minecraft:overworld | id:0128_tauros_97
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【鲤鱼王 / Magikarp】(magikarp)
+  - [common] w=3 Lv1~20 pos=water | 维度:minecraft:overworld | id:0129_magikarp_98
+    群系:minecraft:ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean
+    条件:无
+  - [uncommon] w=3 Lv1~20 pos=water | 维度:minecraft:overworld | id:0129_magikarp_99
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+  - [common] w=3 Lv1~20 pos=water | 维度:minecraft:overworld | id:0129_magikarp_river_lake_added
+    群系:minecraft:river, minecraft:frozen_river
+    条件:无
+
+【拉普拉斯 / Lapras】(lapras)
+  - [ultra_rare] w=3 Lv29~54 pos=water | 维度:minecraft:overworld | id:0131_lapras_100
+    群系:minecraft:ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean
+    条件:无
+  - [ultra_rare] w=3 Lv29~54 pos=water | 维度:minecraft:overworld | id:0131_lapras_101
+    群系:minecraft:ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean
+    条件:无
+
+【妙蛙种子 / Bulbasaur】(bulbasaur)
+  - [ultra_rare] w=1 Lv5~12 pos=land | 维度:minecraft:overworld | id:9999_bulbasaur_102
+    群系:minecraft:jungle, minecraft:bamboo_jungle, minecraft:sparse_jungle, minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden
+    条件:无
+
+【小火龙 / Charmander】(charmander)
+  - [ultra_rare] w=1 Lv5~12 pos=land | 维度:minecraft:overworld | id:9999_charmander_103
+    群系:minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:天气=clear
+
+【迷你龙 / Dratini】(dratini)
+  - [ultra_rare] w=1 Lv10~20 pos=water | 维度:minecraft:overworld | id:9999_dratini_104
+    群系:minecraft:ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean
+    条件:时间=night；高度=20~55；附近结构=OCEAN_RUIN 半径160
+
+【伊布 / Eevee】(eevee)
+  - [rare] w=1 Lv8~16 pos=land | 维度:minecraft:overworld | id:9999_eevee_105
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden
+    条件:附近结构=VILLAGE 半径128
+
+【大葱鸭 / Farfetch'd】(farfetchd)
+  - [special] w=1 Lv10~18 pos=land | 维度:minecraft:overworld | id:9999_farfetchd_106
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:river, minecraft:frozen_river
+    条件:附近方块=minecraft:sugar_cane 半径16
+
+【火伊布 / Flareon】(flareon)
+  - [ultra_rare] w=1 Lv18~30 pos=land | 维度:minecraft:overworld,minecraft:the_nether | id:9999_flareon_107
+    群系:minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:nether_wastes, minecraft:crimson_forest, minecraft:warped_forest, minecraft:soul_sand_valley, minecraft:basalt_deltas
+    条件:天气=clear
+
+【快拳郎 / Hitmonchan】(hitmonchan)
+  - [rare] w=1 Lv18~30 pos=land | 维度:minecraft:overworld | id:9999_hitmonchan_108
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore, minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【飞腿郎 / Hitmonlee】(hitmonlee)
+  - [rare] w=1 Lv18~30 pos=land | 维度:minecraft:overworld | id:9999_hitmonlee_109
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore, minecraft:desert, minecraft:badlands, minecraft:eroded_badlands, minecraft:wooded_badlands, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna
+    条件:无
+
+【雷伊布 / Jolteon】(jolteon)
+  - [ultra_rare] w=1 Lv18~30 pos=land | 维度:minecraft:overworld | id:9999_jolteon_110
+    群系:minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:meadow, minecraft:stony_shore
+    条件:天气=thunder/rain
+
+【小磁怪 / Magnemite】(magnemite)
+  - [uncommon] w=4 Lv8~18 pos=land | 维度:minecraft:overworld | id:9999_magnemite_111
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:stony_shore
+    条件:附近方块=minecraft:lightning_rod 半径22
+
+【多边兽 / Porygon】(porygon)
+  - [special] w=1 Lv12~20 pos=land | 维度:minecraft:overworld,minecraft:the_nether,minecraft:the_end | id:9999_porygon_112
+    群系:minecraft:plains, minecraft:sunflower_plains, minecraft:savanna, minecraft:taiga, minecraft:meadow, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden
+    条件:附近方块=POKEDEMO_PC 半径24
+
+【卡比兽 / Snorlax】(snorlax)
+  - [special] w=1 Lv15~30 pos=land | 维度:minecraft:overworld | id:9999_snorlax_113
+    群系:minecraft:forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:old_growth_birch_forest, minecraft:taiga, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:windswept_forest, minecraft:cherry_grove, minecraft:pale_garden, minecraft:plains, minecraft:sunflower_plains, minecraft:meadow, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna, minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:stony_peaks, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:snowy_slopes, minecraft:grove, minecraft:stony_shore
+    条件:附近方块=POKEDEMO_RIPE_BERRY_BUSH 半径20
+
+【杰尼龟 / Squirtle】(squirtle)
+  - [ultra_rare] w=1 Lv5~12 pos=land | 维度:minecraft:overworld | id:9999_squirtle_114
+    群系:minecraft:river, minecraft:frozen_river
+    条件:靠近水边
+
+【水伊布 / Vaporeon】(vaporeon)
+  - [ultra_rare] w=1 Lv18~30 pos=land | 维度:minecraft:overworld | id:9999_vaporeon_115
+    群系:minecraft:river, minecraft:frozen_river
+    条件:靠近水边
+
+【勇基拉 / Kadabra】(kadabra)
+  - [rare] w=3 Lv8~28 pos=land | 维度:minecraft:the_end | id:end_kadabra
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:无
+
+【胡地 / Alakazam】(alakazam)
+  - [ultra_rare] w=1 Lv8~28 pos=land | 维度:minecraft:the_end | id:end_alakazam
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:无
+
+【皮可西 / Clefable】(clefable)
+  - [ultra_rare] w=1 Lv10~30 pos=land | 维度:minecraft:the_end | id:end_clefable
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:无
+
+【胖可丁 / Wigglytuff】(wigglytuff)
+  - [ultra_rare] w=1 Lv10~30 pos=land | 维度:minecraft:the_end | id:end_wigglytuff
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:无
+
+【引梦貘人 / Hypno】(hypno)
+  - [ultra_rare] w=1 Lv10~30 pos=land | 维度:minecraft:the_end | id:end_hypno
+    群系:minecraft:the_end, minecraft:end_highlands, minecraft:end_midlands, minecraft:end_barrens, minecraft:small_end_islands
+    条件:无

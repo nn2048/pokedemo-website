@@ -1,0 +1,39 @@
+PokeDemo 球果(Apricorn)树叶掉落对照表
+
+规则：
+- 仅“天然树叶”(Leaves.persistent=false) 才会掉落
+- 不能用剪刀(SHEARS)；不能用精准采集(Silk Touch)
+- 每次破坏一格树叶：掉落概率 = apricorns.leaf-drop-chance（默认 2% = 0.02）
+- 每种树叶只会掉落 1~3 种球果（第三种为小概率稀有项）
+
+掉落表（权重表示相对概率）：
+
+OAK_LEAVES (橡木树叶)
+  - 红球果 red  : 6
+  - 黄球果 yellow: 4
+  - 绿球果 green : 1 (稀有)
+
+BIRCH_LEAVES (白桦树叶)
+  - 黄球果 yellow: 6
+  - 白球果 white : 3
+  - 红球果 red   : 1 (稀有)
+
+SPRUCE_LEAVES (云杉树叶)
+  - 蓝球果 blue  : 6
+  - 黑球果 black : 3
+  - 白球果 white : 1 (稀有)
+
+JUNGLE_LEAVES (丛林树叶)
+  - 绿球果 green : 6
+  - 粉球果 pink  : 3
+  - 黄球果 yellow: 1 (稀有)
+
+ACACIA_LEAVES (金合欢树叶)
+  - 红球果 red   : 5
+  - 黄球果 yellow: 5
+  - 粉球果 pink  : 1 (稀有)
+
+DARK_OAK_LEAVES (深色橡木树叶)
+  - 黑球果 black : 5
+  - 白球果 white : 4
+  - 蓝球果 blue  : 1 (稀有)

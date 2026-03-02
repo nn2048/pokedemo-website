@@ -1,0 +1,155 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PokeDemo</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-layer bg-1"></div>
+  <div class="bg-layer bg-2"></div>
+
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <img class="brand-logo-mini" src="./assets/images/pokedemo-logo.png" alt="PokeDemo" />
+      <div>
+        <h1>PokeDemo</h1>
+        <p id="brandTagline">插件官网</p>
+      </div>
+    </div>
+
+    <nav>
+      <a href="#getting-started" data-nav="gettingStarted"></a>
+      <a href="#machines" data-nav="machines"></a>
+      <a href="#breeding" data-nav="breeding"></a>
+      <a href="#legends" data-nav="legends"></a>
+      <a href="#refresh" data-nav="refresh"></a>
+      <a href="#community" data-nav="community"></a>
+    </nav>
+
+    <p class="sidebar-foot" id="sidebarFoot"></p>
+  </aside>
+
+  <div class="overlay" id="overlay"></div>
+
+  <div class="app">
+    <header class="topbar">
+      <button class="menu-btn" id="menuBtn" aria-label="menu">☰</button>
+
+      <div class="language-switch" aria-label="language switch">
+        <span id="languageLabel">Language</span>
+        <button class="lang-btn" data-lang="zh">中文</button>
+        <button class="lang-btn" data-lang="en">EN</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero card">
+        <div class="hero-layout">
+          <div>
+            <div class="hero-topline" id="heroTopline"></div>
+            <h2 id="heroTitle"></h2>
+            <p id="heroSubtitle"></p>
+
+            <div class="warning-box">
+              <h3 id="warningTitle"></h3>
+              <ul id="warningList"></ul>
+            </div>
+
+            <div class="notice-grid">
+              <article class="notice card-lite">
+                <h4 id="devNoticeTitle"></h4>
+                <p id="devNoticeText"></p>
+              </article>
+              <article class="notice card-lite">
+                <h4 id="translationNoticeTitle"></h4>
+                <p id="translationNoticeText"></p>
+              </article>
+            </div>
+          </div>
+
+          <aside class="logo-panel card-lite">
+            <img class="hero-logo" src="./assets/images/pokedemo-logo.png" alt="PokeDemo Logo" />
+          </aside>
+        </div>
+
+        <h3 class="block-title" id="downloadsTitle"></h3>
+        <div class="download-grid" id="downloadGrid"></div>
+      </section>
+
+      <section id="getting-started" class="card section">
+        <h3 data-title="gettingStarted"></h3>
+        <ul id="gettingStartedList" class="feature-list"></ul>
+      </section>
+
+      <section id="machines" class="card section">
+        <h3 data-title="machines"></h3>
+        <ul id="machinesList" class="feature-list"></ul>
+      </section>
+
+      <section id="breeding" class="card section">
+        <h3 data-title="breeding"></h3>
+        <ul id="breedingList" class="feature-list"></ul>
+      </section>
+
+      <section id="legends" class="card section">
+        <h3 data-title="legends"></h3>
+        <div id="legendsContent"></div>
+      </section>
+
+      <section id="refresh" class="card section">
+        <h3 data-title="refresh"></h3>
+        <p id="refreshIntro"></p>
+
+        <div class="stats-grid">
+          <article class="card-lite">
+            <h4 id="spawnStatTitle"></h4>
+            <p><strong id="spawnSpeciesCount">-</strong> <span id="spawnSpeciesLabel"></span></p>
+            <p><strong id="spawnEntryCount">-</strong> <span id="spawnEntryLabel"></span></p>
+          </article>
+          <article class="card-lite">
+            <h4 id="apricornStatTitle"></h4>
+            <p id="apricornStatText"></p>
+          </article>
+        </div>
+
+        <h4 id="apricornTableTitle"></h4>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th id="thLeaf"></th>
+                <th id="thPrimary"></th>
+                <th id="thSecondary"></th>
+                <th id="thRare"></th>
+              </tr>
+            </thead>
+            <tbody id="apricornTbody"></tbody>
+          </table>
+        </div>
+
+        <div class="raw-files">
+          <details open>
+            <summary id="spawnRawTitle"></summary>
+            <pre id="spawnRaw">Loading...</pre>
+          </details>
+
+          <details>
+            <summary id="apricornRawTitle"></summary>
+            <pre id="apricornRaw">Loading...</pre>
+          </details>
+        </div>
+      </section>
+
+      <section id="community" class="card section">
+        <h3 data-title="community"></h3>
+        <div id="communityContent"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="./assets/data/embedded-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
