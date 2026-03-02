@@ -157,11 +157,11 @@ const I18N = {
           { label: 'GitHub', url: LINK_MAP.source },
           { label: 'Modrinth', url: LINK_MAP.modrinth }
         ],
-        supportWorldsTitle: '支持我们插件的世界（中文版）',
+        supportWorldsTitle: '支持我们插件的世界',
         supportWorlds: [
-          '世界服 A（可替换为真实名称）',
-          '世界服 B（可替换为真实名称）',
-          '世界服 C（可替换为真实名称）'
+          '世界服 A',
+          '世界服 B',
+          '世界服 C'
         ]
       }
     }
