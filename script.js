@@ -1,8 +1,8 @@
 ﻿const LINK_MAP = {
-  releases: 'https://github.com/your-org/pokedemo/releases',
-  source: 'https://github.com/your-org/pokedemo',
+  releases: 'https://github.com/nn2048/pokedemo-website/releases',
+  source: 'https://github.com/nn2048/pokedemo-website',
   modrinth: 'https://modrinth.com/plugin/pokedemo',
-  issues: 'https://github.com/your-org/pokedemo/issues',
+  issues: 'https://github.com/nn2048/pokedemo-website/issues',
   spawnTxt: './assets/data/spawn.txt',
   apricornTxt: './assets/data/apricorn_leaf_drop_table.txt'
 };
