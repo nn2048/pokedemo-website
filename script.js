@@ -1,6 +1,6 @@
 const LINK_MAP = {
   releases: 'https://modrinth.com/plugin/pokedemo',
-  source: 'https://github.com/nn2048/pokedemo-website',
+  source: '',
   modrinth: 'https://modrinth.com/plugin/pokedemo',
   issues: 'https://discord.gg/AgBV5ZZexY',
   spawnTxt: 'https://modrinth.com/plugin/pokedemo',
@@ -387,10 +387,17 @@ function setLanguage(lang) {
   const links = document.createElement('div');
   links.className = 'community-links';
   community.links.forEach((entry) => {
+    const hasExternalUrl = typeof entry.url === 'string' && /^https?:\/\//.test(entry.url);
     const a = document.createElement('a');
-    a.href = entry.url;
-    a.target = entry.url.startsWith('http') ? '_blank' : '_self';
-    a.rel = 'noopener noreferrer';
+    a.href = hasExternalUrl ? entry.url : 'javascript:void(0)';
+    a.target = hasExternalUrl ? '_blank' : '_self';
+    if (hasExternalUrl) {
+      a.rel = 'noopener noreferrer';
+    } else {
+      a.classList.add('is-disabled');
+      a.setAttribute('aria-disabled', 'true');
+      a.tabIndex = -1;
+    }
     a.textContent = entry.label;
     links.appendChild(a);
   });
@@ -434,12 +441,20 @@ function setLanguage(lang) {
   DOWNLOAD_KEYS.forEach((key) => {
     const cfg = t.downloads[key];
     if (!cfg) return;
+    const rawHref = LINK_MAP[key] || '';
+    const hasExternalUrl = /^https?:\/\//.test(rawHref);
 
     const a = document.createElement('a');
     a.className = 'download-card';
-    a.href = LINK_MAP[key] || '#';
-    a.target = a.href.startsWith('http') ? '_blank' : '_self';
-    a.rel = 'noopener noreferrer';
+    a.href = hasExternalUrl ? rawHref : 'javascript:void(0)';
+    a.target = hasExternalUrl ? '_blank' : '_self';
+    if (hasExternalUrl) {
+      a.rel = 'noopener noreferrer';
+    } else {
+      a.classList.add('is-disabled');
+      a.setAttribute('aria-disabled', 'true');
+      a.tabIndex = -1;
+    }
 
     const h4 = document.createElement('h4');
     h4.textContent = cfg.title;
