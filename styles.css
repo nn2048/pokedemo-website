@@ -472,9 +472,36 @@ pre {
   padding-top: 10px;
 }
 
+.support-worlds-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
 .support-worlds h4 {
   margin: 0 0 8px;
   color: #ffd4b2;
+}
+
+.support-upload-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  text-decoration: none;
+  color: #f6fbff;
+  font-size: 0.85rem;
+  font-weight: 700;
+  background: linear-gradient(90deg, rgba(255, 122, 26, 0.7) 0%, rgba(57, 201, 255, 0.7) 100%);
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.support-upload-btn:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.08);
 }
 
 @keyframes riseIn {
@@ -541,5 +568,9 @@ pre {
   .language-switch {
     transform: scale(0.95);
     transform-origin: right center;
+  }
+
+  .support-worlds-head {
+    flex-wrap: wrap;
   }
 }

@@ -1,10 +1,12 @@
-﻿const LINK_MAP = {
-  releases: 'https://github.com/nn2048/pokedemo-website/releases',
+const LINK_MAP = {
+  releases: 'https://modrinth.com/plugin/pokedemo',
   source: 'https://github.com/nn2048/pokedemo-website',
   modrinth: 'https://modrinth.com/plugin/pokedemo',
-  issues: 'https://github.com/nn2048/pokedemo-website/issues',
-  spawnTxt: './assets/data/spawn.txt',
-  apricornTxt: './assets/data/apricorn_leaf_drop_table.txt'
+  issues: 'https://discord.gg/AgBV5ZZexY',
+  spawnTxt: 'https://modrinth.com/plugin/pokedemo',
+  apricornTxt: 'https://modrinth.com/plugin/pokedemo',
+  qqGroup: 'https://qun.qq.com/universal-share/share?ac=1&authKey=BOaiHPddli%2FYaNr8Mxe1YnBVsnwdYzUt9%2Bk2aQ5XRWJ4W9IU1pW0gWYjOu8WeAT1&busi_data=eyJncm91cENvZGUiOiIxMDg1Nzc2MDA3IiwidG9rZW4iOiJTUFUrdmVGanZYdjJyd3BMRDZocTR1dDhIZ2xxNks5S1lKSjJTK2ttcnkvR3R3RkZCNXZyWkMvQ3RNc3VwVnJLIiwidWluIjoiMzAzNjU0OTg0NSJ9&data=RtdhWu1wAUb4EffjZkE0XmB7LkcGyJF6S4bXOL37yIWzzveoEEqb_vcLqC1mJGwImi1lJK4XBCy88Vs3OtbvUA&svctype=4&tempid=h5_group_info',
+  discord: 'https://discord.gg/AgBV5ZZexY'
 };
 
 const APRICORN_ROWS = [
@@ -152,12 +154,14 @@ const I18N = {
         title: '社区',
         intro: '加入社区获取更新、提交反馈并交流玩法。',
         links: [
-          { label: 'QQ群', url: 'https://qm.qq.com/' },
-          { label: 'Discord', url: 'https://discord.gg/' },
+          { label: 'QQ群', url: LINK_MAP.qqGroup },
+          { label: 'Discord', url: LINK_MAP.discord },
           { label: 'GitHub', url: LINK_MAP.source },
           { label: 'Modrinth', url: LINK_MAP.modrinth }
         ],
         supportWorldsTitle: '支持我们插件的世界',
+        supportUploadLabel: '点击上传',
+        supportUploadUrl: LINK_MAP.qqGroup,
         supportWorlds: [
           '世界服 A',
           '世界服 B',
@@ -265,8 +269,8 @@ const I18N = {
         title: 'Community',
         intro: 'Join our channels for updates, support and discussion.',
         links: [
-          { label: 'QQ Group', url: 'https://qm.qq.com/' },
-          { label: 'Discord', url: 'https://discord.gg/' },
+          { label: 'QQ Group', url: LINK_MAP.qqGroup },
+          { label: 'Discord', url: LINK_MAP.discord },
           { label: 'GitHub', url: LINK_MAP.source },
           { label: 'Modrinth', url: LINK_MAP.modrinth }
         ],
@@ -396,9 +400,24 @@ function setLanguage(lang) {
     const worlds = document.createElement('div');
     worlds.className = 'support-worlds';
 
+    const head = document.createElement('div');
+    head.className = 'support-worlds-head';
+
     const title = document.createElement('h4');
     title.textContent = community.supportWorldsTitle;
-    worlds.appendChild(title);
+    head.appendChild(title);
+
+    if (community.supportUploadLabel && community.supportUploadUrl) {
+      const uploadLink = document.createElement('a');
+      uploadLink.className = 'support-upload-btn';
+      uploadLink.href = community.supportUploadUrl;
+      uploadLink.target = '_blank';
+      uploadLink.rel = 'noopener noreferrer';
+      uploadLink.textContent = community.supportUploadLabel;
+      head.appendChild(uploadLink);
+    }
+
+    worlds.appendChild(head);
 
     const ul = document.createElement('ul');
     community.supportWorlds.forEach((w) => {
